@@ -2,5 +2,5 @@ theme: jekyll-theme-tactile
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
-title: [The title of your site]
-description: [A short description of your site's purpose]
+title: [ヨシダ技術部のページです]
+description: [ヨシダ技術部は健康的で安全なコンテンツの提供を通じて、豊かな社会づくりに貢献し、社会から信頼される良き技術集団を目指しています。]
