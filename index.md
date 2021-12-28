@@ -6,7 +6,7 @@
 
 ## 印字町のゲーム
 
-[『引力と斥力（仮）』　体験版]((https://github.com/yoshida-tech/yoshida-tech.github.io/releases/download/TheGravity/TheGravity.zip)
+[『引力と斥力（仮）』　体験版](https://github.com/yoshida-tech/yoshida-tech.github.io/releases/download/TheGravity/TheGravity.zip)
 
 - アクションパズルゲーム
 - 重力を操って脱出しよう
